@@ -13,5 +13,5 @@
 + Make your way through each level by matching three of the same shape to clear the screen before the timer runs out. There are different powerups that you can use to help you clear the screen if you get stuck.
 
 #License:
-+MIT
++ MIT
 
